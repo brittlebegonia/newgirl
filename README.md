@@ -1,7 +1,6 @@
-# newgirl
-practice, first project
+## NEW GIRL
+# Practice makes perfect.
 
-this is my first repo
+I don't have any skills in programming languages except that I know it exists.
 
-### third level hading
-here is some new information
+*I think Myspace was the closest thing I ever got to customizing a page.*
