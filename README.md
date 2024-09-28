@@ -7,10 +7,5 @@ I don't have any skills in programming languages except that I know it exists.
 
 Anyway, welcome to my first repo!
 
-..... (¯`v´¯)♥
-.......•.¸.•´
-....¸.•´
-... (
- ☻/
-/▌♥♥
-/ \ ♥♥
+૮ ˶ᵔ ᵕ ᵔ˶ ა ♡   ₊˚
+ 
