@@ -1,5 +1,5 @@
-## NEW GIRL
-# Practice makes perfect.
+# NEW GIRL
+### Practice makes perfect.
 
 I don't have any skills in programming languages except that I know it exists.
 
